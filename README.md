@@ -5,7 +5,7 @@ This repository serves as a quick reference for various Markdown styling element
 1. [Headings](#headings)
 2. [Links](#links)
 3. [Creating Space](#more-than-1-line-space)
-4. [Inline Code](#code)
+4. [Code Block](#code)
 5. [Task Lists](#task-list)
 
 
