@@ -1,6 +1,6 @@
 # Markdown-Styling-Cheatsheet
 
-- Headings:
+## Headings:
 ```
 # Heading 1
 ## Heading 2
@@ -12,6 +12,7 @@ OutPut:
 ## Heading 2
 ### Heading 3
 
+##Links
 - Link with Text:
 
 [link Text](link address)
