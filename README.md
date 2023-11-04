@@ -1,6 +1,6 @@
 # Markdown-Styling-Cheatsheet
 
--Headings:
+- Headings:
 ```
 # Heading 1
 ## Heading 2
@@ -19,4 +19,6 @@ OutPut:
 
 - Direct Email Link:
   
+```[Email](mailto:sidratulmuntaha135@gmail.com)
+```
 [Email](mailto:sidratulmuntaha135@gmail.com)
