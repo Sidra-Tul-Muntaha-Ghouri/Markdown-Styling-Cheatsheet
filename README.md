@@ -68,3 +68,11 @@ Line 2
 - [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+      
+## Comment
+```
+<!--- This is an HTML comment in Markdown -->
+
+```
+<!--- This is an HTML comment in Markdown -->
